@@ -2,7 +2,7 @@
 Xtra-Vision software system is a video rental kiosk which allows customers to rent any movies from Xtra-vision express machines located in Ireland. Customers can return the movies either to the same machine or another one in the network. Each disc has an electronic tag, which is used to scan them, and thus to track all the information about the rentals. There are three different categories for movies: coming soon, latest or new release and not new.
 Output:
 
-From what machine would you like to operate?
+From what machine would you like to operate?<br/>
 [1] Machine{eircode=N39R6T3, address=Hazelwood Shopping Centre, town=Longford, county=Longford, description=Xtra-vision Xpress - Davis SuperValu Longford, country=Ireland}<br/>
 [2] Machine{eircode=N37YA29, address=Ballymahon Road, town=Athlone, county=Westmeath, description=Xtra-vision Xpress - Croughan's Supervalu Ballymahon Rd, country=Ireland}<br/>
 [3] Machine{eircode=N91WPX9, address=Austin Friars St, town=Mullingar, county=Westmeath, description=Xtra-vision Xpress - Buckley's SuperValu Mullingar, country=Ireland}<br/>
@@ -48,6 +48,7 @@ What option would you like to choose?
 [6] View machine locationes<br/>
 [7] Quit the program<br/>
 8
+
 You have entered an invalid input. Please, try again<br/>
 [1] Rent (a) movie(s) with unlimited movies account<br/>
 [2] Rent (a) movie(s) without unlimited moives account<br/>
