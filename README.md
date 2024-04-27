@@ -12,8 +12,8 @@ From what machine would you like to operate?<br/>
 [7] Machine{eircode=A82P2H0, address=Virginia Shopping Centre, town=Virginia, county=Cavan, description=Xtra-vision Xpress - McEvoy's SuperValu Virginia, country=Ireland}<br/>
 [8] Machine{eircode=R42HC85, address=Lower Main Street, town=Banagher, county=Offaly, description=Xtra-vision Xpress - SuperValu Banagher, country=Ireland}<br/>
 [9] Quit program
-
 1
+
 **** Welcome to Xtra-Vision Xpress System *****
 Special Offers
 
