@@ -1,5 +1,6 @@
 # xtra-vision
-Xtra-Vision software system is a video rental kiosk which allows customers to rent any movies from Xtra-vision express machines located in Ireland. Customers can return the movies either to the same machine or another one in the network. Each disc has an electronic tag, which is used to scan them, and thus to track all the information about the rentals. There are three different categories for movies: coming soon, latest or new release and not new.
+Xtra-Vision software system is a video rental kiosk which allows customers to rent any movies from Xtra-vision express machines located in Ireland. Customers can return the movies either to the same machine or another one in the network. Each disc has an electronic tag, which is used to scan them, and thus to track all the information about the rentals. There are three different categories for movies: coming soon, latest or new release and not new. Software was developed in Netbeans IDE. <br/>
+
 Output:
 
 From what machine would you like to operate?<br/>
