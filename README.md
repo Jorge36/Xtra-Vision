@@ -71,6 +71,8 @@ What option would you like to choose?<br/>
 
 .....
 
+There are two videos in ./Testing/ showing app working (Xtra-Vision1.mkv and Xtra-Vision2.mkv). 
+
 I add some screenshots below.
 
 ![alt_text](https://github.com/Jorge36/Xtra-Vision/blob/fb0637058110c8d136e556cece059e205e822766/Testing/screen1.png)
