@@ -73,6 +73,8 @@ What option would you like to choose?<br/>
 
 I add some screenshots below.
 
-![alt_text]()
-![alt_text]()
+![alt_text](https://github.com/Jorge36/Xtra-Vision/blob/fb0637058110c8d136e556cece059e205e822766/Testing/screen1.png)
+
+![alt_text](https://github.com/Jorge36/Xtra-Vision/blob/fb0637058110c8d136e556cece059e205e822766/Testing/screen2.png)
+
 
