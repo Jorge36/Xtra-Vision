@@ -1,6 +1,8 @@
 # xtra-vision
 Xtra-Vision software system is a video rental kiosk which allows customers to rent any movies from Xtra-vision express machines located in Ireland. Customers can return the movies either to the same machine or another one in the network. Each disc has an electronic tag, which is used to scan them, and thus to track all the information about the rentals. There are three different categories for movies: coming soon, latest or new release and not new. Software was developed in Netbeans IDE. <br/>
 
+DataHandler comes from JAF; it's not part of JavaMail. JAF is included in JDK 1.8 and older. You must use JDK 1.8, if you want to run this app.
+
 Output:
 
 From what machine would you like to operate?<br/>
