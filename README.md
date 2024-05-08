@@ -69,3 +69,8 @@ What option would you like to choose?<br/>
 
 .....
 
+I add some screenshots below.
+
+![alt_text]()
+![alt_text]()
+
