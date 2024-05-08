@@ -55,12 +55,12 @@ public class SetUp {
     List<Brand> brands;
     
     // link to the database
-    private String dbServer = "jdbc:mysql://52.50.23.197/Rolando_2019337?use_SSL=false";
+    private String dbServer = "jdbc:mysql://localhost/database_name?allowPublicKeyRetrieval=true&use_SSL=false";
 
     // user to query DB and perorm inserts, deletes and updaes
-    private String user = "Rolando_2019337";// "root";  
+    private String user = "user";// "root";  
     // password
-    private String password = "2019337"; //"root"; 
+    private String password = "password"; //"root"; 
 
     public SetUp() {
         
